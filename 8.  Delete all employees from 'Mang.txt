@@ -1,0 +1,4 @@
+8.  Delete all employees from 'Mangalore'
+
+
+SQL> delete from EMPLOYEE where emp_address = 'Mangalore';

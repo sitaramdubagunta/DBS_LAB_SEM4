@@ -1,0 +1,4 @@
+3. Display names of all employees. 
+
+
+Select * from EMPLOYEE;

@@ -1,0 +1,10 @@
+1. Create a table employee with ( emp_no, emp_name, emp_address) 
+
+sitaram d (240911624)
+
+
+
+create table EMPLOYEE(
+emp_no number(6),
+emp_name varchar(20),
+emp_address varchar(40));

@@ -1,0 +1,2 @@
+5. Add a column named salary to employee table.
+Alter table EMPLOYEE add(salary number(7,3));

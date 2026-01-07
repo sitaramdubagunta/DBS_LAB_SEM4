@@ -1,0 +1,3 @@
+7. View the structure of the table employee using describe.
+
+describe EMPLOYEE

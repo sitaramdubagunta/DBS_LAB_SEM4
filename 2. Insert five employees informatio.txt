@@ -1,0 +1,12 @@
+2. Insert five employees information.
+
+sitaram d (240911624)
+
+
+insert into EMPLOYEE(emp_no, emp_name, emp_address) values(240624,'sitaram','hyderabad');
+insert into EMPLOYEE(emp_no, emp_name, emp_address) values(240625,'Aditya','Mumbai');
+insert into EMPLOYEE(emp_no, emp_name, emp_address) values(240626,'george','London');
+insert into EMPLOYEE(emp_no, emp_name, emp_address) values(240627,'ram','hyderabad');
+insert into EMPLOYEE(emp_no, emp_name, emp_address) values(240628,'aryan','manipal');
+
+

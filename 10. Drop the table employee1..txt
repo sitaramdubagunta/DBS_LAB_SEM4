@@ -1,0 +1,4 @@
+10. Drop the table employee1. 
+
+
+drop table employee1

@@ -1,0 +1,4 @@
+4 display all employees from 'manipal'
+
+
+SELECT * FROM EMPLOYEE where emp_address = 'manipal';
